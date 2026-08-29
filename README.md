@@ -100,7 +100,6 @@ class RifaKhanum:
 
 ## 🚀 Featured Projects
 
-> 💡 *Add a new project by copying one row of the table below and pasting your repo / live-demo links.*
 
 <div align="center">
 
@@ -108,7 +107,6 @@ class RifaKhanum:
 |:---|:---|:---|:---:|
 | **🧠 AI Career Counselling App** | LLM-powered platform that analyzes a user's experience, skills & goals to generate personalized career guidance and skill-gap analysis. | `Python` `Django` `OpenAI` `JS` | [![Code](https://img.shields.io/badge/Code-2E0854?style=flat-square&logo=github&logoColor=white)](ADD_REPO_LINK_HERE) [![Demo](https://img.shields.io/badge/Live-8A2BE2?style=flat-square&logo=vercel&logoColor=white)](ADD_DEMO_LINK_HERE) |
 | **✅ Task Manager App** | Full-stack task management app with containerized deployment, CI/CD, and AI-assisted task handling in progress. | `Python` `Flask` `React` `Docker` | [![Code](https://img.shields.io/badge/Code-2E0854?style=flat-square&logo=github&logoColor=white)](ADD_REPO_LINK_HERE) [![Demo](https://img.shields.io/badge/Live-8A2BE2?style=flat-square&logo=vercel&logoColor=white)](ADD_DEMO_LINK_HERE) |
-| **📊 Competency Dashboard** | End-to-end analytics dashboard tracking self-assessments, skill gaps & auto-generated training recommendations. | `Django` `SQL` `Power BI` | [![Code](https://img.shields.io/badge/Code-2E0854?style=flat-square&logo=github&logoColor=white)](ADD_REPO_LINK_HERE) [![Demo](https://img.shields.io/badge/Live-8A2BE2?style=flat-square&logo=vercel&logoColor=white)](ADD_DEMO_LINK_HERE) |
 
 </div>
 
