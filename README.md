@@ -31,15 +31,6 @@ I'm a **Full-Stack Software Engineer** at **KPIT Technologies**, building produc
 
 I design and ship dashboards **end-to-end** — UI, backend logic, database models, and reporting workflows — and I build **AI-powered applications** by integrating **LLMs, PyTorch, and scikit-learn** into practical tools that support real decision-making.
 
-<br/>
-
-- 🔭 &nbsp;**Currently building:** AI-integrated full-stack apps with containerized deployment
-- 🌱 &nbsp;**Learning:** Docker, CI/CD, Cloud Deployment (Azure / AWS)
-- 💬 &nbsp;**Ask me about:** Python, Django, Flask, React, LLM integration
-- 🎯 &nbsp;**Open to:** Full-Stack · Python · Backend roles *(India & International)*
-
-<br clear="both"/>
-
 ```python
 class RifaKhanum:
     def __init__(self):
