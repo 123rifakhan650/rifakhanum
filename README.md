@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=Rifa%20Khanum&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Software%20Engineer%20%7C%20Python%20%7C%20AI%2FML&descAlignY=54&descSize=20)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Rifa%20Khanum&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full-Stack%20Software%20Engineer%20%7C%20Python%20%7C%20AI%2FML&descAlignY=60&descSize=22)
 
 <br/>
 
@@ -25,7 +25,7 @@
 
 ## 🧬 About Me
 
-<img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
+<img align="right" width="280" src="https://cdn.jsdelivr.net/gh/Anmol-Baranwal/Cool-GIFs-For-README@main/gifs/Developer.gif" />
 
 I'm a **Full-Stack Software Engineer** at **KPIT Technologies**, building production tools with **Python, Django, JavaScript, and React** that real teams rely on every day. I work at the intersection of **backend architecture, clean UI, and automation** — turning manual, time-consuming processes into reliable, self-running systems.
 
@@ -145,8 +145,6 @@ Full-stack engineer building internal tools spanning dashboards, automation, and
 ![Stats](https://github-readme-stats.shion.dev/api?username=123rifakhan650&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 ![Streak](https://streak-stats.demolab.com/?user=123rifakhan650&theme=dark&hide_border=false)
 
-![Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=123rifakhan650&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 </div>
 
 ![divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
@@ -166,6 +164,6 @@ I'm always open to discussing **full-stack development, AI-powered products, or 
 
 ***"First, solve the problem. Then, write the code."*** — John Johnson
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)
-
 </div>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=footer)
