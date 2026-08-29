@@ -1,45 +1,51 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Rifa%20Khanum&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Software%20Engineer%20%7C%20Python%20%7C%20AI%2FML&descAlignY=55&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=Rifa%20Khanum&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Software%20Engineer%20%7C%20Python%20%7C%20AI%2FML&descAlignY=54&descSize=20)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Engineer;Python+%7C+Django+%7C+Flask+%7C+React;Building+AI-Powered+Web+Applications;Open+to+Full-Stack+%2F+Backend+Python+Roles" alt="Typing SVG" />
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=8A2BE2&center=true&vCenter=true&width=650&lines=Full-Stack+Software+Engineer;Python+%7C+Django+%7C+Flask+%7C+React;Building+AI-Powered+Web+Applications;Open+to+Full-Stack+%2F+Backend+Python+Roles" alt="Typing SVG" />
+
+<br/><br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-4B0082?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rifa-khanum-512736237)
+[![Email](https://img.shields.io/badge/Email-6A0DAD?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srkrifakhan650@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-2E0854?style=for-the-badge&logo=github&logoColor=white)](https://github.com/123rifakhan650)
+[![Instagram](https://img.shields.io/badge/Instagram-8A2BE2?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_lightsandmiles)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=123rifakhan650&style=for-the-badge&color=6A0DAD&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/123rifakhan650?style=for-the-badge&color=8A2BE2&label=FOLLOWERS)
+![Stars](https://img.shields.io/github/stars/123rifakhan650?style=for-the-badge&color=4B0082&label=STARS)
 
 </div>
 
-## 🌐 Socials
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_lightsandmiles)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rifa-khanum-512736237)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:srkrifakhan650@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/123rifakhan650)
-
----
+![divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 ## 🧬 About Me
+
+<img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
 I'm a **Full-Stack Software Engineer** at **KPIT Technologies**, building production tools with **Python, Django, JavaScript, and React** that real teams rely on every day. I work at the intersection of **backend architecture, clean UI, and automation** — turning manual, time-consuming processes into reliable, self-running systems.
 
 I design and ship dashboards **end-to-end** — UI, backend logic, database models, and reporting workflows — and I build **AI-powered applications** by integrating **LLMs, PyTorch, and scikit-learn** into practical tools that support real decision-making.
 
-My engineering philosophy is simple: not just *"does it work,"* but *"does it make someone's day easier."*
+<br/>
 
-```python
-class RifaKhanum:
-    def __init__(self):
-        self.role      = "Full-Stack Software Engineer"
-        self.company   = "KPIT Technologies"
-        self.location  = "Bengaluru, India 🇮🇳"
-        self.stack     = ["Python", "Django", "Flask", "React", "JavaScript"]
-        self.learning  = ["Docker", "CI/CD", "Cloud (Azure / AWS)"]
-        self.open_to   = "Full-Stack · Python · Backend roles (India & International)"
+- 🔭 &nbsp;**Currently building:** AI-integrated full-stack apps with containerized deployment
+- 🌱 &nbsp;**Learning:** Docker, CI/CD, Cloud Deployment (Azure / AWS)
+- 💬 &nbsp;**Ask me about:** Python, Django, Flask, React, LLM integration
+- 🎯 &nbsp;**Open to:** Full-Stack · Python · Backend roles *(India & International)*
+- ⚡ &nbsp;***"Not just does it work — but does it make someone's day easier."***
 
-    def philosophy(self):
-        return "Not just 'does it work' — but 'does it make someone's day easier.'"
-```
+<br clear="both"/>
 
----
+![divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 ## 💻 Tech Stack
+
+<div align="center">
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -68,9 +74,13 @@ class RifaKhanum:
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
----
+</div>
+
+![divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 ## 🤖 AI / ML Expertise
+
+<div align="center">
 
 | Domain | Proficiency | Focus |
 |:---|:---:|:---|
@@ -80,7 +90,9 @@ class RifaKhanum:
 | **Deep Learning** | ⭐⭐⭐☆☆ | PyTorch — model building fundamentals |
 | **Computer Vision** | ⭐⭐⭐☆☆ | OpenCV — image processing basics |
 
----
+</div>
+
+![divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 ## 🚀 Featured Projects
 
@@ -106,7 +118,7 @@ class RifaKhanum:
 ────────────────────────────────────────────────────────────
 -->
 
----
+![divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 ## 💼 Experience
 
@@ -124,7 +136,7 @@ Full-stack engineer building internal tools spanning dashboards, automation, and
 
 `Python` `Django` `JavaScript` `SQL` `Power BI` `Power Automate` `Excel`
 
----
+![divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 ## 📊 GitHub Stats
 
@@ -137,7 +149,7 @@ Full-stack engineer building internal tools spanning dashboards, automation, and
 
 </div>
 
----
+![divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 ## 📬 Let's Connect
 
@@ -152,7 +164,7 @@ I'm always open to discussing **full-stack development, AI-powered products, or 
 
 <br/>
 
-*"First, solve the problem. Then, write the code."* — John Johnson
+***"First, solve the problem. Then, write the code."*** — John Johnson
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)
 
