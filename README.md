@@ -37,9 +37,22 @@ I design and ship dashboards **end-to-end** — UI, backend logic, database mode
 - 🌱 &nbsp;**Learning:** Docker, CI/CD, Cloud Deployment (Azure / AWS)
 - 💬 &nbsp;**Ask me about:** Python, Django, Flask, React, LLM integration
 - 🎯 &nbsp;**Open to:** Full-Stack · Python · Backend roles *(India & International)*
-- ⚡ &nbsp;***"Not just does it work — but does it make someone's day easier."***
 
 <br clear="both"/>
+
+```python
+class RifaKhanum:
+    def __init__(self):
+        self.role      = "Full-Stack Software Engineer"
+        self.company   = "KPIT Technologies"
+        self.location  = "Bengaluru, India 🇮🇳"
+        self.stack     = ["Python", "Django", "Flask", "React", "JavaScript"]
+        self.learning  = ["Docker", "CI/CD", "Cloud (Azure / AWS)"]
+        self.open_to   = "Full-Stack · Python · Backend roles (India & International)"
+
+    def philosophy(self):
+        return "Not just 'does it work' — but 'does it make someone's day easier.'"
+```
 
 <img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
 
