@@ -27,9 +27,9 @@
 
 <img align="right" width="280" src="https://cdn.jsdelivr.net/gh/Anmol-Baranwal/Cool-GIFs-For-README@main/gifs/Developer.gif" />
 
-I'm a **Full-Stack Software Engineer** at **KPIT Technologies**, building production tools with **Python, Django, JavaScript, and React** that real teams rely on every day. I work at the intersection of **backend architecture, clean UI, and automation** — turning manual, time-consuming processes into reliable, self-running systems.
+I'm a **Full-Stack Software Engineer** at **KPIT Technologies**, building production tools with **Python, Django, JavaScript, and React** that real teams rely on every day. I work at the intersection of **backend architecture, clean UI, and automation** turning manual, time-consuming processes into reliable, self-running systems.
 
-I design and ship dashboards **end-to-end** — UI, backend logic, database models, and reporting workflows — and I build **AI-powered applications** by integrating **LLMs, PyTorch, and scikit-learn** into practical tools that support real decision-making.
+I design and ship dashboards **end-to-end** UI, backend logic, database models, and reporting workflows and I build **AI-powered applications** by integrating **LLMs, PyTorch, and Scikit-learn** into practical tools that support real decision-making.
 
 ```python
 class RifaKhanum:
@@ -89,7 +89,7 @@ class RifaKhanum:
 | Domain | Proficiency | Focus |
 |:---|:---:|:---|
 | **LLM Integration** | ⭐⭐⭐⭐☆ | OpenAI API integration into production-style apps |
-| **Classical ML** | ⭐⭐⭐⭐☆ | scikit-learn — recommendation & prediction logic |
+| **Classical ML** | ⭐⭐⭐⭐☆ | Scikit-learn — recommendation & prediction logic |
 | **Data Analysis** | ⭐⭐⭐⭐☆ | Power BI, SQL, Excel (pivots, advanced functions) |
 | **Deep Learning** | ⭐⭐⭐☆☆ | PyTorch — model building fundamentals |
 | **Computer Vision** | ⭐⭐⭐☆☆ | OpenCV — image processing basics |
@@ -131,7 +131,7 @@ class RifaKhanum:
 
 Full-stack engineer building internal tools spanning dashboards, automation, and reporting at enterprise scale.
 
-- Designed and shipped an **end-to-end AI/ML course-tracking dashboard** — full ownership of UI, backend architecture & database models
+- Designed and shipped an **end-to-end AI/ML course-tracking dashboard** full ownership of UI, backend architecture & database models
 - Built **Competency Framework dashboards** tracking self-assessments, architect-reviewed skill gaps & auto-generated training recommendations
 - **Automated** manual, Excel-based workflows (enrollment, bulk updates, reminders) using Python scripts & Power Automate
 - Resolved **1,500+ support tickets** with root-cause analysis while maintaining high SLA compliance
