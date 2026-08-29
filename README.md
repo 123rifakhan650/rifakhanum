@@ -1,23 +1,17 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Rifa%20Khanum&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Software%20Engineer%thon%20%7C%20AI%2FML&descAlignY=55&descSize=18
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Rifa%20Khanum&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Software%20Engineer%20%7C%20Python%20%7C%20AI%2FML&descAlignY=55&descSize=18)
 
-olab.com?font=Fira+Code&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Engineer;Python+%7C+Django+%7C+Flask+%7C+React;Building+AI-Powered+Web+Applications;Open+to+Full-Stack+%2F+Backend+Python+Roles" alt="Typing SVG" />
-
-<br/>
-
-[![Location](https://img.shields.io/badge/📍_Location-Bia-6A0DAD?style=for-the-badge](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-4B0082?style=for-the-badge&loggoColor=white](https://www.linkedin.com/in/rifa-khanum-512736237)
-[![Gmail](https://img.shields.io/badge/Email-6A0DAD?style=for-the-badge&logo=golor=white](mailto:srkrifakhan650@gmail.com)
-https://img.shields.io/badge/GitHub-2E0854?style=for-the-badge&logo=github&logoColor=white](https://github.com/123rifakhan650)
-https://img.shields.io/badge/Instagram-8A2BE2?style=for-the-badge&logo=instagram&logoColor=white](https://instagram.com/_lightsandmiles)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=123rifakhan650&style=for-the-badge&color=6A0DAD&label=PROFILEg.shields.io/github/followers/123rifakhan650?style=for-the-badge&color=8A2BE2&label=FOLLOWERS
-![Stars](https://img.shields.io/github/stars/123rifakhan650?style=fore&color=4B0082&label=STARS
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Engineer;Python+%7C+Django+%7C+Flask+%7C+React;Building+AI-Powered+Web+Applications;Open+to+Full-Stack+%2F+Backend+Python+Roles" alt="Typing SVG" />
 
 </div>
+
+## 🌐 Socials
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_lightsandmiles)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rifa-khanum-512736237)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:srkrifakhan650@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/123rifakhan650)
 
 ---
 
@@ -29,56 +23,50 @@ I design and ship dashboards **end-to-end** — UI, backend logic, database mode
 
 My engineering philosophy is simple: not just *"does it work,"* but *"does it make someone's day easier."*
 
-- 🔭 **Currently building:** AI-integrated full-stack applications with containerized deployment
-- 🌱 **Learning:** Docker, CI/CD, Cloud Deployment (Azure / AWS)
-- 💬 **Ask me about:** Python, Django, Flask, React, LLM integration
-- 🎯 **Open to:** Full-Stack Developer · Python Developer · Backend Engineer roles *(India & International)*
+```python
+class RifaKhanum:
+    def __init__(self):
+        self.role      = "Full-Stack Software Engineer"
+        self.company   = "KPIT Technologies"
+        self.location  = "Bengaluru, India 🇮🇳"
+        self.stack     = ["Python", "Django", "Flask", "React", "JavaScript"]
+        self.learning  = ["Docker", "CI/CD", "Cloud (Azure / AWS)"]
+        self.open_to   = "Full-Stack · Python · Backend roles (India & International)"
+
+    def philosophy(self):
+        return "Not just 'does it work' — but 'does it make someone's day easier.'"
+```
 
 ---
 
-## 🛠️ Tech Stack
+## 💻 Tech Stack
 
-<table>
-<tr>
-<td valign="top" width="33%">
-
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=fllogo=python&logoColor=white
-https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white
-![C++](https://img.shields.io/badge/C++-00599=flat-square&logo=cplusplus&logoColor=white
-https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black
-
-### Frontend
-https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white
-![CSS3](https://img.shields.io/badge/CSS3-tyle=flat-square&logo=css3&logoColor=white
-https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black
-![Bootstrap](https://img.shields.io/badge/Bootstrle=flat-square&logo=bootstrap&logoColor=white
-
-</td>
-<td valign="top" width="33%">
-
-### Backend & Databases
-![Django](https://img.shields.io/badge/Django-092Elat-square&logo=django&logoColor=white
-https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white
-![Node.js](https://img.shields.io/badge/Node.jsle=flat-square&logo=node.js&logoColor=white
-https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white
-![tps://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&b&logoColor=white
-
-</td>
-<td valign="top" width="33%">
-
-### Cloud, DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logte
-https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white
-![Linux](https://img.shields.io/badge/Linux-Fle=flat-square&logo=linux&logoColor=black
-https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white
-![tps://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&ack
-
-</td>
-</tr>
-</table>
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
@@ -96,15 +84,15 @@ https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor
 
 ## 🚀 Featured Projects
 
-> 💡 *Add a new project by copying one row of the table below and filling in your repo / live-demo links.*
+> 💡 *Add a new project by copying one row of the table below and pasting your repo / live-demo links.*
 
 <div align="center">
 
 | Project | Description | Tech | Links |
 |:---|:---|:---|:---:|
-| **🧠 AI Career Counselling App** | LLM-powered platform that analyzes a user's experience, skills & goals to generate personalized career guidance and skill-gap analysis. | `Python` `Django` `OpenAI API` `JS` | [![ps://img.shields.io/badge/Code-2E0854?style=flat-square&logo=github&logoColor=white](ADD_REPO_LINK_HERE) [![Demo](https://img.shields.io/badge/Live-8A2BE2?style=fl&logo=vercel&logoColor=white](ADD_DEMO_LINK_HERE) |
-| **✅ Task Manager App** | Full-stack task management app with containerized deployment, CI/CD, and AI-assisted task handling in progress. | `Python` `Flask` `React` `Docker` | https://img.shields.io/badge/Code-2E0854?style=flat-square&logo=github&logoColor=white](ADD_REPO_LINK_HERE) [![Demo](https://img.shields.iove-8A2BE2?style=flat-square&logo=vercel&logoColor=white](ADD_DEMO_LINK_HERE) |
-| **📊 Competency Dashboard** | End-to-end analytics dashboard tracking self-assessments, skill gaps & auto-generated training recommendations. | `Django` `SQL` `Power BI` | https://img.shields.io/badge/Code-2E0854?style=flat-square&logo=github&logoColor=white](ADD_REPO_LINK_HERE) https://img.shields.io/badge/Live-8A2BE2?style=flat-square&logo=vercel&logoColor=white](ADD_DEMO_LINK_HERE) |
+| **🧠 AI Career Counselling App** | LLM-powered platform that analyzes a user's experience, skills & goals to generate personalized career guidance and skill-gap analysis. | `Python` `Django` `OpenAI` `JS` | [![Code](https://img.shields.io/badge/Code-2E0854?style=flat-square&logo=github&logoColor=white)](ADD_REPO_LINK_HERE) [![Demo](https://img.shields.io/badge/Live-8A2BE2?style=flat-square&logo=vercel&logoColor=white)](ADD_DEMO_LINK_HERE) |
+| **✅ Task Manager App** | Full-stack task management app with containerized deployment, CI/CD, and AI-assisted task handling in progress. | `Python` `Flask` `React` `Docker` | [![Code](https://img.shields.io/badge/Code-2E0854?style=flat-square&logo=github&logoColor=white)](ADD_REPO_LINK_HERE) [![Demo](https://img.shields.io/badge/Live-8A2BE2?style=flat-square&logo=vercel&logoColor=white)](ADD_DEMO_LINK_HERE) |
+| **📊 Competency Dashboard** | End-to-end analytics dashboard tracking self-assessments, skill gaps & auto-generated training recommendations. | `Django` `SQL` `Power BI` | [![Code](https://img.shields.io/badge/Code-2E0854?style=flat-square&logo=github&logoColor=white)](ADD_REPO_LINK_HERE) [![Demo](https://img.shields.io/badge/Live-8A2BE2?style=flat-square&logo=vercel&logoColor=white)](ADD_DEMO_LINK_HERE) |
 
 </div>
 
@@ -112,9 +100,9 @@ https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor
 ────────────────────────────────────────────────────────────
   ➕ TO ADD A NEW PROJECT — copy this line into the table above:
 
-| **🔥 Project Name** | One-line description of what it does & the value it delivers. | `Tech1` `Tech2` `Tech3` | https://img.shields.io/badge/Code-2E0854?style=flat-square&logo=github&logoColor=white](YOUR_REPO_URL) [![Demo](https://img.shields.io/badge/Live-8A2BE2?style=flat-squarecel&logoColor=white](YOUR_DEMO_URL) |
+| **🔥 Project Name** | One-line description of what it does & the value it delivers. | `Tech1` `Tech2` `Tech3` | [![Code](https://img.shields.io/badge/Code-2E0854?style=flat-square&logo=github&logoColor=white)](YOUR_REPO_URL) [![Demo](https://img.shields.io/badge/Live-8A2BE2?style=flat-square&logo=vercel&logoColor=white)](YOUR_DEMO_URL) |
 
-  Then replace ADD_REPO_LINK_HERE / ADD_DEMO_LINK_HERE with real URLs.
+  Then replace ADD_REPO_LINK_HERE / ADD_DEMO_LINK_HERE with your real URLs.
 ────────────────────────────────────────────────────────────
 -->
 
@@ -138,12 +126,14 @@ Full-stack engineer building internal tools spanning dashboards, automation, and
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/apiakhan650&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8A2BE2&icon_color=8A2BE2
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=123rifakhan650&theme=tokyonight&hide_border=true&background=0d1117&ring=8A2BE2&fire=8A2BEangs](https://github-readme-stats.vercel.app/api/top-langs/?username=123rifakhan650&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8A2ty Graph](https://github-readme-activity-graph.vercel.app/graph?username=123rifakhan650&theme=react-dark&hide_border=true&bg_color=0d1117&color=8A2BEt=ffffff
+![Stats](https://github-readme-stats.shion.dev/api?username=123rifakhan650&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![Streak](https://streak-stats.demolab.com/?user=123rifakhan650&theme=dark&hide_border=false)
+
+![Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=123rifakhan650&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
 
@@ -155,15 +145,15 @@ Full-stack engineer building internal tools spanning dashboards, automation, and
 
 I'm always open to discussing **full-stack development, AI-powered products, or new opportunities.**
 
-https://img.shields.io/badge/Email-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white](mailto:srkrifakhan650@gmail.com)
-[![LinkedIn](https://o/badge/LinkedIn-4B0082?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/rifa-khanum-512736237)
-[![GitHub](https://img.shields.io/badge/54?style=for-the-badge&logo=github&logoColor=white](https://github.com/123rifakhan650)
-[![Instagram](https://img.shields.io/badge/Instagram-8A2BE2?style=for-the-badge&logo=instagram&logottps://instagram.com/_lightsandmiles)
+[![Email](https://img.shields.io/badge/Email-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srkrifakhan650@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-4B0082?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rifa-khanum-512736237)
+[![GitHub](https://img.shields.io/badge/GitHub-2E0854?style=for-the-badge&logo=github&logoColor=white)](https://github.com/123rifakhan650)
+[![Instagram](https://img.shields.io/badge/Instagram-8A2BE2?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_lightsandmiles)
 
 <br/>
 
 *"First, solve the problem. Then, write the code."* — John Johnson
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=ight=120&section=footer
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)
 
 </div>
