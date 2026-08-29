@@ -1,6 +1,6 @@
-<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Rifa%20Khanum&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full-Stack%20Software%20Engineer%20%7C%20Python%20%7C%20AI%2FML&descAlignY=60&descSize=22" />
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Rifa%20Khanum&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full-Stack%20Software%20Engineer%20%7C%20Python%20%7C%20AI%2FML&descAlignY=60&descSize=22)
+<div align="center">
 
 <br/>
 
@@ -21,7 +21,7 @@
 
 </div>
 
-![divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
 
 ## 🧬 About Me
 
@@ -41,7 +41,7 @@ I design and ship dashboards **end-to-end** — UI, backend logic, database mode
 
 <br clear="both"/>
 
-![divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
 
 ## 💻 Tech Stack
 
@@ -76,7 +76,7 @@ I design and ship dashboards **end-to-end** — UI, backend logic, database mode
 
 </div>
 
-![divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
 
 ## 🤖 AI / ML Expertise
 
@@ -92,7 +92,7 @@ I design and ship dashboards **end-to-end** — UI, backend logic, database mode
 
 </div>
 
-![divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
 
 ## 🚀 Featured Projects
 
@@ -118,7 +118,7 @@ I design and ship dashboards **end-to-end** — UI, backend logic, database mode
 ────────────────────────────────────────────────────────────
 -->
 
-![divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
 
 ## 💼 Experience
 
@@ -136,7 +136,7 @@ Full-stack engineer building internal tools spanning dashboards, automation, and
 
 `Python` `Django` `JavaScript` `SQL` `Power BI` `Power Automate` `Excel`
 
-![divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
 
 ## 📊 GitHub Stats
 
@@ -147,7 +147,7 @@ Full-stack engineer building internal tools spanning dashboards, automation, and
 
 </div>
 
-![divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
 
 ## 📬 Let's Connect
 
@@ -166,4 +166,4 @@ I'm always open to discussing **full-stack development, AI-powered products, or 
 
 </div>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=footer)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=footer" />
